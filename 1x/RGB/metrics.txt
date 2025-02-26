@@ -1,0 +1,43 @@
+image 108 of 306_right.jpg: mIoU = 0.9448, Precision = 0.9518
+image 114 of 306_right.jpg: mIoU = 0.9736, Precision = 0.9853
+image 119 of 306_left.jpg: mIoU = 0.9758, Precision = 0.9911
+image 13 of 306_left.jpg: mIoU = 0.9713, Precision = 0.9923
+image 13 of 306_right.jpg: mIoU = 0.9805, Precision = 0.9939
+image 132 of 306_left.jpg: mIoU = 0.9806, Precision = 0.9880
+image 141 of 306_right.jpg: mIoU = 0.9919, Precision = 0.9951
+image 142 of 306_right.jpg: mIoU = 0.9820, Precision = 0.9858
+image 151 of 306_right.jpg: mIoU = 0.9729, Precision = 0.9875
+image 158 of 306_right.jpg: mIoU = 0.9772, Precision = 0.9805
+image 184 of 306_left.jpg: mIoU = 0.9477, Precision = 0.9604
+image 185 of 306_right.jpg: mIoU = 0.9761, Precision = 0.9992
+image 186 of 306_left.jpg: mIoU = 0.9760, Precision = 0.9857
+image 19 of 306_right.jpg: mIoU = 0.9770, Precision = 0.9948
+image 191 of 306_left.jpg: mIoU = 0.9791, Precision = 0.9893
+image 206 of 306_right.jpg: mIoU = 0.9822, Precision = 0.9944
+image 212 of 306_right.jpg: mIoU = 0.9785, Precision = 0.9837
+image 219 of 306_left.jpg: mIoU = 0.9779, Precision = 0.9938
+image 223 of 306_left.jpg: mIoU = 0.9832, Precision = 0.9977
+image 227 of 306_left.jpg: mIoU = 0.9821, Precision = 0.9946
+image 228 of 306_left.jpg: mIoU = 0.9640, Precision = 0.9789
+image 240 of 306_right.jpg: mIoU = 0.9726, Precision = 0.9868
+image 242 of 306_left.jpg: mIoU = 0.9310, Precision = 0.9327
+image 255 of 306_right.jpg: mIoU = 0.9804, Precision = 0.9890
+image 263 of 306_left.jpg: mIoU = 0.9797, Precision = 0.9973
+image 264 of 306_left.jpg: mIoU = 0.9883, Precision = 0.9930
+image 265 of 306_right.jpg: mIoU = 0.9835, Precision = 0.9891
+image 274 of 306_left.jpg: mIoU = 0.9808, Precision = 0.9871
+image 282 of 306_left.jpg: mIoU = 0.9867, Precision = 0.9888
+image 289 of 306_right.jpg: mIoU = 0.9870, Precision = 0.9952
+image 35 of 306_right.jpg: mIoU = 0.9630, Precision = 0.9901
+image 46 of 306_left.jpg: mIoU = 0.9643, Precision = 0.9837
+image 48 of 306_right.jpg: mIoU = 0.9736, Precision = 0.9988
+image 49 of 306_right.jpg: mIoU = 0.9723, Precision = 0.9956
+image 57 of 306_left.jpg: mIoU = 0.9787, Precision = 0.9846
+image 58 of 306_left.jpg: mIoU = 0.9779, Precision = 0.9906
+image 70 of 306_right.jpg: mIoU = 0.9723, Precision = 0.9788
+image 82 of 306_left.jpg: mIoU = 0.9708, Precision = 0.9847
+image 86 of 306_right.jpg: mIoU = 0.9650, Precision = 0.9973
+image 94 of 306_right.jpg: mIoU = 0.9666, Precision = 0.9870
+
+Mean mIoU: 0.9742
+Mean Precision: 0.9868
